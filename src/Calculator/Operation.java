@@ -3,7 +3,7 @@ package Calculator;
 public class Operation {
 		private long num1,num2;
 		//this keyword usage
-	public	void setNumber1(int n1)
+		void setNumber1(int n1)
 		{
 			this.num1=n1;
 			
